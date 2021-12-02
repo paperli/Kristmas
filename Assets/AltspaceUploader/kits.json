@@ -1,0 +1,55 @@
+{
+    "uploadEntries": [
+        {
+            "AltspaceId": "1882209908762345996",
+            "Name": "Christmas Kit",
+            "IsEnabled": true,
+            "UploadItems": [
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/BallDecorGold.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/SantaDecor.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/BoxDecor.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/TreeDecor.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/StarDecor.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/BallDecorBlue.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                },
+                {
+                    "PrefabFilepath": "Assets/Prefabs/1882209908762345996_christmas_kit/BallDecorRed.prefab",
+                    "ForAndroid": true,
+                    "ForWin": true,
+                    "ForMac": true
+                }
+            ],
+            "PerPlatformAssets": false,
+            "HideContents": false
+        }
+    ]
+}
